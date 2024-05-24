@@ -26,3 +26,26 @@ img{
     font-weight: 400;
     font-style: normal;
   }
+
+
+  section{
+    display: flex;
+   
+  }
+
+  .half-width{
+    box-shadow: 10px 10px 40px gray;
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+  }
+
+  #secound{
+    border-left: 5px solid tomato;
+  }
+
+
+  #first{
+    border-left: 5px solid blue;
+  }
